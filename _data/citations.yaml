@@ -841,6 +841,16 @@
   publisher: arXiv preprint arXiv:2412.20756
   date: '2024-12-30'
   link: https://scholar.google.com/scholar?oi=bibs&cluster=3120853353501893162&btnI=1&hl=en
+- id: knowledge editing through chain-of-thought
+  title: Knowledge Editing through Chain-of-Thought
+  authors:
+  - Changyue Wang
+  - Weihang Su
+  - Qingyao Ai
+  - Yiqun Liu
+  publisher: arXiv preprint arXiv:2412.17727
+  date: '2024-12-23'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=4193463402296767787&btnI=1&hl=en
 - id: 'legalagentbench: evaluating llm agents in legal domain'
   title: 'LegalAgentBench: Evaluating LLM Agents in Legal Domain'
   authors:
@@ -860,16 +870,6 @@
   publisher: arXiv preprint arXiv:2412.17259
   date: '2024-12-23'
   link: https://scholar.google.com/scholar?oi=bibs&cluster=16266164485547069996&btnI=1&hl=en
-- id: knowledge editing through chain-of-thought
-  title: Knowledge Editing through Chain-of-Thought
-  authors:
-  - Changyue Wang
-  - Weihang Su
-  - Qingyao Ai
-  - Yiqun Liu
-  publisher: arXiv preprint arXiv:2412.17727
-  date: '2024-12-23'
-  link: https://scholar.google.com/scholar?oi=bibs&cluster=4193463402296767787&btnI=1&hl=en
 - id: 'pre-trained models for search and recommendation: introduction to the special
     issue-part 1'
   title: 'Pre-trained Models for Search and Recommendation: Introduction to the Special
