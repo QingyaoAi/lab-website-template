@@ -1,6 +1,48 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: 'steptool: enhancing multi-step tool usage in llms via step-grained reinforcement
+    learning'
+  title: 'StepTool: Enhancing Multi-Step Tool Usage in LLMs via Step-Grained Reinforcement
+    Learning'
+  authors:
+  - Yuanqing Yu
+  - Zhefan Wang
+  - Weizhi Ma
+  - Shuai Wang
+  - Chuhan Wu
+  - Zhiqiang Guo
+  - Min Zhang
+  publisher: Proceedings of the 34th ACM International Conference on Information and
+    Knowledge Management
+  date: '2025-11-10'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=16312401093599634882&btnI=1&hl=en
+- id: 'gse: evaluating sticker visual semantic similarity via a general sticker encoder'
+  title: 'GSE: Evaluating Sticker Visual Semantic Similarity via a General Sticker
+    Encoder'
+  authors:
+  - Heng Er Metilda Chee
+  - Jiayin Wang
+  - Zhiqiang Guo
+  - Weizhi Ma
+  - Min Zhang
+  publisher: arXiv preprint arXiv:2511.04977
+  date: '2025-11-07'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=668838998179228982&btnI=1&hl=en
+- id: generative sequential recommendation via hierarchical behavior modeling
+  title: Generative Sequential Recommendation via Hierarchical Behavior Modeling
+  authors:
+  - Zhefan Wang
+  - Guokai Yan
+  - Jinbei Yu
+  - Siyu Gu
+  - Jingyan Chen
+  - Peng Jiang
+  - Zhiqiang Guo
+  - Min Zhang
+  publisher: arXiv preprint arXiv:2511.03155
+  date: '2025-11-05'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=3126232111730893549&btnI=1&hl=en
 - id: 'simvbg: simulating individual values by backstory generation'
   title: 'SimVBG: Simulating Individual Values by Backstory Generation'
   authors:
