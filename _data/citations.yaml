@@ -1,6 +1,27 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: a causal information-flow framework for unbiased learning-to-rank
+  title: A Causal Information-Flow Framework for Unbiased Learning-to-Rank
+  authors:
+  - Haoming Gong
+  - Qingyao Ai
+  - Zhihao Tao
+  - Yongfeng Zhang
+  publisher: arXiv preprint arXiv:2601.05590
+  date: '2026-01-09'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=13943616554238576474&btnI=1&hl=en
+- id: efficient inference for noisy llm-as-a-judge evaluation
+  title: Efficient Inference for Noisy LLM-as-a-Judge Evaluation
+  authors:
+  - Yiqun T Chen
+  - Sizhu Lu
+  - Sijia Li
+  - Moran Guo
+  - Shengyi Li
+  publisher: arXiv preprint arXiv:2601.05420
+  date: '2026-01-08'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=2099933062039620456&btnI=1&hl=en
 - id: 'auto-pre: an automatic and cost-efficient peer-review framework for language
     generation evaluation'
   title: 'Auto-PRE: An Automatic and Cost-Efficient Peer-Review Framework for Language
@@ -35,16 +56,6 @@
     advanced LLM-based evaluation frameworks.'
   date: '2026-01-01'
   link: https://scholar.google.com/scholar?oi=bibs&cluster=1086558109260984113&btnI=1&hl=en
-- id: 'llms vs. humans in information access tasks: performances, behaviors, and learning
-    abilities'
-  title: 'LLMs vs. Humans in Information Access Tasks: Performances, Behaviors, and
-    Learning Abilities'
-  authors:
-  - Min Zhang
-  publisher: Proceedings of the 2025 Annual International ACM SIGIR Conference on
-    Research and Development in Information Retrieval in the Asia Pacific Region
-  date: '2025-12-07'
-  link: https://scholar.google.com/scholar?oi=bibs&cluster=3407774567355252752&btnI=1&hl=en
 - id: 'atacompressor: adaptive task-aware compression for efficient long-context processing
     in llms'
   title: 'ATACompressor: Adaptive Task-Aware Compression for Efficient Long-Context
@@ -70,6 +81,16 @@
     Research and Development in Information Retrieval in the Asia Pacific Region
   date: '2025-12-07'
   link: https://scholar.google.com/scholar?oi=bibs&cluster=4874549117360105238&btnI=1&hl=en
+- id: 'llms vs. humans in information access tasks: performances, behaviors, and learning
+    abilities'
+  title: 'LLMs vs. Humans in Information Access Tasks: Performances, Behaviors, and
+    Learning Abilities'
+  authors:
+  - Min Zhang
+  publisher: Proceedings of the 2025 Annual International ACM SIGIR Conference on
+    Research and Development in Information Retrieval in the Asia Pacific Region
+  date: '2025-12-07'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=3407774567355252752&btnI=1&hl=en
 - id: towards unification of hallucination detection and fact verification for large
     language models
   title: Towards Unification of Hallucination Detection and Fact Verification for
