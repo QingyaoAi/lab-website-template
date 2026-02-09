@@ -1,6 +1,78 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: multi-source retrieval and reasoning for legal sentencing prediction
+  title: Multi-Source Retrieval and Reasoning for Legal Sentencing Prediction
+  authors:
+  - Junjie Chen
+  - Haitao Li
+  - Qilei Zhang
+  - Zhenghua Li
+  - Ya Zhang
+  - Quan Zhou
+  - Cheng Luo
+  - Yiqun Liu
+  - Dongsheng Guo
+  - Qingyao Ai
+  publisher: arXiv preprint arXiv:2602.04690
+  date: '2026-02-04'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=7787880226888463513&btnI=1&hl=en
+- id: 'beyond exposure: optimizing ranking fairness with non-linear time-income functions'
+  title: 'Beyond Exposure: Optimizing Ranking Fairness with Non-linear Time-Income
+    Functions'
+  authors:
+  - Xuancheng Li
+  - Tao Yang
+  - Yujia Zhou
+  - Qingyao Ai
+  - Yiqun Liu
+  publisher: arXiv preprint arXiv:2602.03345
+  date: '2026-02-03'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=17131143560265562791&btnI=1&hl=en
+- id: 'legalone: a family of foundation models for reliable legal reasoning'
+  title: 'LegalOne: A Family of Foundation Models for Reliable Legal Reasoning'
+  authors:
+  - Haitao Li
+  - Yifan Chen
+  - Shuo Miao
+  - Qian Dong
+  - Jia Chen
+  - Yiran Hu
+  - Junjie Chen
+  - Minghao Qin
+  - Qingyao Ai
+  - Yiqun Liu
+  - Cheng Luo
+  - Quan Zhou
+  - Ya Zhang
+  - Jikun Hu
+  publisher: arXiv preprint arXiv:2602.00642
+  date: '2026-01-31'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=15826069508717136265&btnI=1&hl=en
+- id: 'equity vs. equality: optimizing ranking fairness for tailored provider needs'
+  title: 'Equity vs. Equality: Optimizing Ranking Fairness for Tailored Provider Needs'
+  authors:
+  - Yiteng Tu
+  - Weihang Su
+  - Shuguang Han
+  - Yiqun Liu
+  - Qingyao Ai
+  publisher: arXiv preprint arXiv:2602.00495
+  date: '2026-01-31'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=6636168570971060141&btnI=1&hl=en
+- id: 'beyond experience retrieval: learning to generate utility-optimized structured
+    experience for frozen llms'
+  title: 'Beyond Experience Retrieval: Learning to Generate Utility-Optimized Structured
+    Experience for Frozen LLMs'
+  authors:
+  - Xuancheng Li
+  - Haitao Li
+  - Yujia Zhou
+  - Yiqun Liu
+  - Qingyao Ai
+  publisher: arXiv preprint arXiv:2602.02556
+  date: '2026-01-30'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=5094447938755759188&btnI=1&hl=en
 - id: 'evaluation of large language models in legal applications: challenges, methods,
     and future directions'
   title: 'Evaluation of Large Language Models in Legal Applications: Challenges, Methods,
@@ -48,6 +120,19 @@
   publisher: arXiv preprint arXiv:2601.05420
   date: '2026-01-08'
   link: https://scholar.google.com/scholar?oi=bibs&cluster=2099933062039620456&btnI=1&hl=en
+- id: understanding internal representations of recommendation models with sparse
+    autoencoders
+  title: Understanding Internal Representations of Recommendation Models with Sparse
+    Autoencoders
+  authors:
+  - Jiayin Wang
+  - Xiaoyu Zhang
+  - Weizhi Ma
+  - Zhiqiang Guo
+  - Min Zhang
+  publisher: ACM Transactions on Information Systems
+  date: '2026-01-01'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=16914223699400546638&btnI=1&hl=en
 - id: 'auto-pre: an automatic and cost-efficient peer-review framework for language
     generation evaluation'
   title: 'Auto-PRE: An Automatic and Cost-Efficient Peer-Review Framework for Language
@@ -82,6 +167,25 @@
     advanced LLM-based evaluation frameworks.'
   date: '2026-01-01'
   link: https://scholar.google.com/scholar?oi=bibs&cluster=1086558109260984113&btnI=1&hl=en
+- id: cross-lingual session recommender system based on large language models.
+  title: Cross-Lingual Session Recommender System Based on Large Language Models.
+  authors:
+  - Yishan LI
+  - Peijie SUN
+  - Min ZHANG
+  publisher: Journal of Computer Engineering & Applications
+  date: '2025-12-15'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=15367665011383736681&btnI=1&hl=en
+- id: 'llms vs. humans in information access tasks: performances, behaviors, and learning
+    abilities'
+  title: 'LLMs vs. Humans in Information Access Tasks: Performances, Behaviors, and
+    Learning Abilities'
+  authors:
+  - Min Zhang
+  publisher: Proceedings of the 2025 Annual International ACM SIGIR Conference on
+    Research and Development in Information Retrieval in the Asia Pacific Region
+  date: '2025-12-07'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=3407774567355252752&btnI=1&hl=en
 - id: 'atacompressor: adaptive task-aware compression for efficient long-context processing
     in llms'
   title: 'ATACompressor: Adaptive Task-Aware Compression for Efficient Long-Context
@@ -107,16 +211,6 @@
     Research and Development in Information Retrieval in the Asia Pacific Region
   date: '2025-12-07'
   link: https://scholar.google.com/scholar?oi=bibs&cluster=4874549117360105238&btnI=1&hl=en
-- id: 'llms vs. humans in information access tasks: performances, behaviors, and learning
-    abilities'
-  title: 'LLMs vs. Humans in Information Access Tasks: Performances, Behaviors, and
-    Learning Abilities'
-  authors:
-  - Min Zhang
-  publisher: Proceedings of the 2025 Annual International ACM SIGIR Conference on
-    Research and Development in Information Retrieval in the Asia Pacific Region
-  date: '2025-12-07'
-  link: https://scholar.google.com/scholar?oi=bibs&cluster=3407774567355252752&btnI=1&hl=en
 - id: towards unification of hallucination detection and fact verification for large
     language models
   title: Towards Unification of Hallucination Detection and Fact Verification for
