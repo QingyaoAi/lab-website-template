@@ -1,6 +1,16 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: multi-field tool retrieval
+  title: Multi-Field Tool Retrieval
+  authors:
+  - Yichen Tang
+  - Weihang Su
+  - Yiqun Liu
+  - Qingyao Ai
+  publisher: arXiv preprint arXiv:2602.05366
+  date: '2026-02-05'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=15102534210213288857&btnI=1&hl=en
 - id: multi-source retrieval and reasoning for legal sentencing prediction
   title: Multi-Source Retrieval and Reasoning for Legal Sentencing Prediction
   authors:
