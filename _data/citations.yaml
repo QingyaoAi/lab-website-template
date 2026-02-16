@@ -1,6 +1,16 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: improve large language model systems with user logs
+  title: Improve Large Language Model Systems with User Logs
+  authors:
+  - Changyue Wang
+  - Weihang Su
+  - Qingyao Ai
+  - Yiqun Liu
+  publisher: arXiv preprint arXiv:2602.06470
+  date: '2026-02-06'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=14956233841728824815&btnI=1&hl=en
 - id: multi-field tool retrieval
   title: Multi-Field Tool Retrieval
   authors:
@@ -237,6 +247,18 @@
   publisher: arXiv preprint arXiv:2512.02772
   date: '2025-12-02'
   link: https://scholar.google.com/scholar?oi=bibs&cluster=6014477423498344218&btnI=1&hl=en
+- id: graph-structured driven dual adaptation for mitigating popularity bias
+  title: Graph-Structured Driven Dual Adaptation for Mitigating Popularity Bias
+  authors:
+  - Miaomiao Cai
+  - Lei Chen
+  - Yifan Wang
+  - Zhiyong Cheng
+  - Min Zhang
+  - Meng Wang
+  publisher: IEEE Transactions on Knowledge and Data Engineering
+  date: '2025-11-28'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=4017827721956097341&btnI=1&hl=en
 - id: 'deep research: a systematic survey'
   title: 'Deep Research: A Systematic Survey'
   authors:
