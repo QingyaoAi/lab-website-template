@@ -1,6 +1,17 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: 'apao: adaptive prefix-aware optimization for generative recommendation'
+  title: 'APAO: Adaptive Prefix-Aware Optimization for Generative Recommendation'
+  authors:
+  - Yuanqing Yu
+  - Yifan Wang
+  - Weizhi Ma
+  - Zhiqiang Guo
+  - Min Zhang
+  publisher: arXiv preprint arXiv:2603.02730
+  date: '2026-03-03'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=11103128342034439201&btnI=1&hl=en
 - id: analytical search
   title: Analytical Search
   authors:
