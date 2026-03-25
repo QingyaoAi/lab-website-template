@@ -1,6 +1,18 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: investigating prosocial behavior theory in llm agents under policy-induced inequities
+  title: Investigating prosocial behavior theory in LLM agents under policy-induced
+    inequities
+  authors:
+  - Yujia Zhou
+  - Hexi Wang
+  - Qingyao Ai
+  - Zhen Wu
+  - Yiqun Liu
+  publisher: Proceedings of the AAAI Conference on Artificial Intelligence
+  date: '2026-03-14'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=104177021364676515&btnI=1&hl=en
 - id: 'apao: adaptive prefix-aware optimization for generative recommendation'
   title: 'APAO: Adaptive Prefix-Aware Optimization for Generative Recommendation'
   authors:
@@ -162,19 +174,6 @@
   publisher: arXiv preprint arXiv:2601.05420
   date: '2026-01-08'
   link: https://scholar.google.com/scholar?oi=bibs&cluster=2099933062039620456&btnI=1&hl=en
-- id: understanding internal representations of recommendation models with sparse
-    autoencoders
-  title: Understanding Internal Representations of Recommendation Models with Sparse
-    Autoencoders
-  authors:
-  - Jiayin Wang
-  - Xiaoyu Zhang
-  - Weizhi Ma
-  - Zhiqiang Guo
-  - Min Zhang
-  publisher: ACM Transactions on Information Systems
-  date: '2026-01-01'
-  link: https://scholar.google.com/scholar?oi=bibs&cluster=16914223699400546638&btnI=1&hl=en
 - id: 'auto-pre: an automatic and cost-efficient peer-review framework for language
     generation evaluation'
   title: 'Auto-PRE: An Automatic and Cost-Efficient Peer-Review Framework for Language
@@ -209,6 +208,19 @@
     advanced LLM-based evaluation frameworks.'
   date: '2026-01-01'
   link: https://scholar.google.com/scholar?oi=bibs&cluster=1086558109260984113&btnI=1&hl=en
+- id: understanding internal representations of recommendation models with sparse
+    autoencoders
+  title: Understanding Internal Representations of Recommendation Models with Sparse
+    Autoencoders
+  authors:
+  - Jiayin Wang
+  - Xiaoyu Zhang
+  - Weizhi Ma
+  - Zhiqiang Guo
+  - Min Zhang
+  publisher: ACM Transactions on Information Systems
+  date: '2026-01-01'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=16914223699400546638&btnI=1&hl=en
 - id: cross-lingual session recommender system based on large language models.
   title: Cross-Lingual Session Recommender System Based on Large Language Models.
   authors:
