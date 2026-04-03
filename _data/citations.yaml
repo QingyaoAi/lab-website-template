@@ -1,6 +1,18 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: parametric social identity injection and diversification in public opinion simulation
+  title: Parametric Social Identity Injection and Diversification in Public Opinion
+    Simulation
+  authors:
+  - Hexi Wang
+  - Yujia Zhou
+  - Bangde Du
+  - Qingyao Ai
+  - Yiqun Liu
+  publisher: arXiv preprint arXiv:2603.16142
+  date: '2026-03-17'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=11839354497659118204&btnI=1&hl=en
 - id: investigating prosocial behavior theory in llm agents under policy-induced inequities
   title: Investigating prosocial behavior theory in LLM agents under policy-induced
     inequities
