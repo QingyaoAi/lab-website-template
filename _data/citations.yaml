@@ -1,6 +1,16 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: 'tec: a collection of human trial-and-error trajectories for problem solving'
+  title: 'TEC: A Collection of Human Trial-and-error Trajectories for Problem Solving'
+  authors:
+  - Xinkai Zhang
+  - Jingtao Zhan
+  - Yiqun Liu
+  - Qingyao Ai
+  publisher: arXiv preprint arXiv:2604.06734
+  date: '2026-04-08'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=11254351867194667247&btnI=1&hl=en
 - id: parametric social identity injection and diversification in public opinion simulation
   title: Parametric Social Identity Injection and Diversification in Public Opinion
     Simulation
