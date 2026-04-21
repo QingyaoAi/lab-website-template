@@ -421,6 +421,19 @@
   publisher: 'Findings of the Association for Computational Linguistics: EMNLP 2025'
   date: '2025-11-01'
   link: https://scholar.google.com/scholar?oi=bibs&cluster=9290429661082902343&btnI=1&hl=en
+- id: generalized pseudo-relevance feedback
+  title: Generalized Pseudo-Relevance Feedback
+  authors:
+  - Yiteng Tu
+  - Weihang Su
+  - Yujia Zhou
+  - Yiqun Liu
+  - Fen Lin
+  - Qin Liu
+  - Qingyao Ai
+  publisher: arXiv preprint arXiv:2510.25488
+  date: '2025-10-29'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=10218567097677231349&btnI=1&hl=en
 - id: 'twinvoice: a multi-dimensional benchmark towards digital twins via llm persona
     simulation'
   title: 'TwinVoice: A Multi-dimensional Benchmark Towards Digital Twins via LLM Persona
@@ -440,19 +453,6 @@
   publisher: arXiv preprint arXiv:2510.25536
   date: '2025-10-29'
   link: https://scholar.google.com/scholar?oi=bibs&cluster=12112740909512665873&btnI=1&hl=en
-- id: generalized pseudo-relevance feedback
-  title: Generalized Pseudo-Relevance Feedback
-  authors:
-  - Yiteng Tu
-  - Weihang Su
-  - Yujia Zhou
-  - Yiqun Liu
-  - Fen Lin
-  - Qin Liu
-  - Qingyao Ai
-  publisher: arXiv preprint arXiv:2510.25488
-  date: '2025-10-29'
-  link: https://scholar.google.com/scholar?oi=bibs&cluster=10218567097677231349&btnI=1&hl=en
 - id: relative-based scaling law for neural language models
   title: Relative-Based Scaling Law for Neural Language Models
   authors:
