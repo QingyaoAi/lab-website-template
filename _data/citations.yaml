@@ -1,6 +1,19 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: skill retrieval augmentation for agentic ai
+  title: Skill Retrieval Augmentation for Agentic AI
+  authors:
+  - Weihang Su
+  - Jianming Long
+  - Qingyao Ai
+  - Yichen Tang
+  - Changyue Wang
+  - Yiteng Tu
+  - Yiqun Liu
+  publisher: arXiv preprint arXiv:2604.24594
+  date: '2026-04-27'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=17399806177337239919&btnI=1&hl=en
 - id: 'tec: a collection of human trial-and-error trajectories for problem solving'
   title: 'TEC: A Collection of Human Trial-and-error Trajectories for Problem Solving'
   authors:
